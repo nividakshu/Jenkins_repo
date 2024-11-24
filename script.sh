@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, Jenkins! Build triggered successfully."
+echo "Hello, Jenkins!script updated ."
