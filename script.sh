@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello,Jenkins! Final script updated."
+echo "Hello,Jenkins!Final script updated."
